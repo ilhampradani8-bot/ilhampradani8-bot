@@ -1,4 +1,4 @@
-<h1 align="center">Dr. Ilham Pradani C.L.</h1>
+<h1 align="center">Ilham Pradani S.H.,</h1>
 <h3 align="center">Founder & Executive | Systems Architect | AI Specialist | Legal-Tech Compliance Expert</h3>
 
 <p align="center">
