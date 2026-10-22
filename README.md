@@ -19,7 +19,7 @@ Saya adalah seorang **Founder, Systems Architect**, dan **AI Specialist** dengan
 ### Riwayat Kepemimpinan & Karir
 - **Direktur Utama | PT Easymall Software Development** <br> Memimpin eksekutif dan mengarahkan strategi pengembangan perangkat lunak perusahaan.
 - **President Director | PT Chain Asia Conect** <br> Manajemen korporasi dan pengembangan ekosistem konektivitas digital.
-- **Lead Developer & Fullstack Engineer | Grafisa Company** (Mei 2026 – Sekarang) <br> Merancang arsitektur sistem performa tinggi berbasis VPS/Docker dan memimpin tim engineering.
+- **Lead Developer & Fullstack Engineer | Grafisa Company** (Mei 2026 – Juni 2026) <br> Merancang arsitektur sistem performa tinggi berbasis VPS/Docker dan memimpin tim engineering.
 - **Chief Technology Officer (CTO) | Tech & Software Agency, Malaysia** (Januari – Juni 2026) <br> Mengarahkan strategi teknologi dan ekspansi platform digital multi-nasional.
 - **Chief Marketing Officer (CMO) | Solvtech ID** (Oktober 2025 – Januari 2026) <br> Merancang kampanye pemasaran berbasis data analitik untuk pertumbuhan konversi platform.
 
